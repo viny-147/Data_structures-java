@@ -1,6 +1,6 @@
 # Data_structures-java
 
-Here is the important data structure that can help you...!
+Here is the important data structure topic that can help you...!
 
 Down below you will find the file names and the description of the problem
 
